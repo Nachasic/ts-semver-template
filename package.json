@@ -1,13 +1,7 @@
 {
-  "name": "lit-typography",
+  "name": "ts-semver-tpl",
   "version": "0.0.0-semantically-released",
-  "description": "Typography framework for lit-element",
-  "keywords": [
-    "typography",
-    "styles",
-    "typescript",
-    "web-components"
-  ],
+  "description": "Template project",
   "main": "dist/index.js",
   "ts:main": "src/index.ts",
   "typings": "src/index.ts",
